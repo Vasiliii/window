@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cowboy.com/blogs/reviews.atom</id>
+  <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews"/>
+  <link rel="self" type="application/atom+xml" href="https://cowboy.com/blogs/reviews.atom"/>
+  <title>Cowboy - Reviews</title>
+  <updated>2022-04-21T08:41:44+02:00</updated>
+  <author>
+    <name>Cowboy</name>
+  </author>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/jeroen-19</id>
+    <published>2022-04-21T08:41:44+02:00</published>
+    <updated>2022-04-21T08:41:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/jeroen-19"/>
+    <title>Jeroen</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Utrecht||3||5||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/jeroen-19">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Gave fiets maar ben wat teleurgesteld. De ondersteuning is niet constant, alsof je regelmatig met weerstand fietst. Vooral bij Max snelheid, voelt niet prettig.
+Verder, wat is dat toch met niet een ringslot (kunnen) monteren. Ik wil mijn fiets goed beveiligen en bestel eenAxa XXL slot, blijkt dat nu net weer niet op de ST te passen, echt slecht.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/jorg-11</id>
+    <published>2022-04-21T01:25:33+02:00</published>
+    <updated>2022-04-21T01:25:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/jorg-11"/>
+    <title>Jörg</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Bad Oldesloe||3||2||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/jorg-11">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Akku schüttelt sich los in Folge no connected.
+Zuwenig Motorunterstützung.
+Update wenn ich es nicht gebrauchen kann, keine Zeit habe.
+Im Rahmen verlegte Bremsleitung klappert unerträglich laut.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/johannes-9</id>
+    <published>2022-04-09T23:19:32+02:00</published>
+    <updated>2022-04-09T23:19:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/johannes-9"/>
+    <title>Johannes</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Munich||4||8||Cowboy 4<p><a class="read-more" href="https://cowboy.com/blogs/reviews/johannes-9">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/anton</id>
+    <published>2022-04-03T11:11:03+02:00</published>
+    <updated>2022-04-03T11:11:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/anton"/>
+    <title>Anton</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Hamburg||1||1||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/anton">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[The bike ist always having problems. Cowboys service is horrible, always trying to fix something cheap and first reaction is always pretending that it is someones own fault and not a quality damage, etc]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/cedric-6</id>
+    <published>2022-04-02T19:05:51+02:00</published>
+    <updated>2022-04-02T19:05:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/cedric-6"/>
+    <title>Cédric</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Westerlo||5||10||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/cedric-6">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Because]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/jian</id>
+    <published>2022-03-30T01:45:25+02:00</published>
+    <updated>2022-03-30T01:45:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/jian"/>
+    <title>Jian</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Ossendrecht||4||6||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/jian">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Problems with my beltchain and I discovered a sound on my frontwheel…the bolt on my frontwheel was almost loose so my frontwheel was loose and the disk of my brakes and the brake paddles Where making this nose…very dangerous…luckily I discovered the problem on time]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/gerrit-4</id>
+    <published>2022-03-29T11:25:31+02:00</published>
+    <updated>2022-03-29T11:25:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/gerrit-4"/>
+    <title>Gerrit</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Lommel||3||6||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/gerrit-4">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[De eerste maand allerlei kleine problemen die je niet wilt met een nieuwe fiets. Ze worden wel opgelost maar het is vervelend. Het vervelendste van de zaak is dat ik slechts 53 km kan doen met mijn batterij... Een pak minder dus dan de beloofde 70 km. In de chat kan cowboy duidelijk niet begrijpen dat ik hier niet tevreden over ben.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/roland-7</id>
+    <published>2022-03-28T11:22:51+02:00</published>
+    <updated>2022-03-28T11:22:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/roland-7"/>
+    <title>Roland</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Leinefelde-Worbis||4||9||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/roland-7">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Laufleistung zu gering]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/juri</id>
+    <published>2022-03-25T19:41:03+01:00</published>
+    <updated>2022-03-25T19:41:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/juri"/>
+    <title>Juri</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Rho||5||9||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/juri">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Real feeling]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/annabel</id>
+    <published>2022-03-25T10:14:15+01:00</published>
+    <updated>2022-03-25T10:14:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/annabel"/>
+    <title>Annabel</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[||5||9||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/annabel">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[It's a fun sporty ride!]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/thomas-72</id>
+    <published>2022-03-23T22:38:15+01:00</published>
+    <updated>2022-03-23T22:38:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/thomas-72"/>
+    <title>Thomas</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Paris||5||9||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/thomas-72">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Elegant. People in the street ask me what brand it is.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/john-12</id>
+    <published>2022-03-23T20:18:52+01:00</published>
+    <updated>2022-03-23T20:18:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/john-12"/>
+    <title>John</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Maarssen||4||6||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/john-12">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Prachtige fiets en rijd fantastisch.
+Alleen de remmen blijven een ergernis, andere blokjes geprobeerd een nieuwe schijf gemonteerd( misschien krom?) mocht niet baten.
+Cups een aantal keren naar binnen gedrukt om ze gangbaar te maken!
+Maar remmen blijven slepen, erg irritant op een verder stille fiets.
+John.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/nicolas-41</id>
+    <published>2022-03-23T17:49:22+01:00</published>
+    <updated>2022-03-23T17:49:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/nicolas-41"/>
+    <title>Nicolas</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Ligne||4||10||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/nicolas-41">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Almost perfect exception  for the accessories…not enough]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/kurt-7</id>
+    <published>2022-03-23T13:03:23+01:00</published>
+    <updated>2022-03-23T13:03:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/kurt-7"/>
+    <title>Kurt</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Stuttgart||1||0||Cowboy 4<p><a class="read-more" href="https://cowboy.com/blogs/reviews/kurt-7">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Kann kein Englisch]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/kerstin-3</id>
+    <published>2022-03-22T21:37:34+01:00</published>
+    <updated>2022-03-22T21:37:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/kerstin-3"/>
+    <title>Kerstin</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Hamburg||5||10||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/kerstin-3">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[because it is awesome]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/miriam-1</id>
+    <published>2022-03-22T16:28:04+01:00</published>
+    <updated>2022-03-22T16:28:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/miriam-1"/>
+    <title>Miriam</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Sint-Niklaas||4||9||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/miriam-1">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Very easy to use with app]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/marco-24</id>
+    <published>2022-03-22T10:47:08+01:00</published>
+    <updated>2022-03-22T10:47:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/marco-24"/>
+    <title>Marco</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Hollandsche Rading||3||5||Cowboy 4<p><a class="read-more" href="https://cowboy.com/blogs/reviews/marco-24">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[It only Supports untill 22 kilometers and not till 25]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/fran</id>
+    <published>2022-03-21T22:45:24+01:00</published>
+    <updated>2022-03-21T22:45:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/fran"/>
+    <title>fran</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Brooklyn||5||10||Cowboy 4 ST (US)<p><a class="read-more" href="https://cowboy.com/blogs/reviews/fran">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Simple and joyful ride]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/phil-1</id>
+    <published>2022-03-21T12:54:33+01:00</published>
+    <updated>2022-03-21T12:54:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/phil-1"/>
+    <title>Phil</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Biederitz||4||7||Cowboy 4<p><a class="read-more" href="https://cowboy.com/blogs/reviews/phil-1">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Schönes Rad, aber recht geringe Reichweite. Ständer wackelt bei jeder Bodenwelle (Feder zu schwach). Motorunterstützung gut, aber leider nicht konfigurierbar.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/jen</id>
+    <published>2022-03-21T12:17:22+01:00</published>
+    <updated>2022-03-21T12:17:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/jen"/>
+    <title>Jen</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Croydon||4||5||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/jen">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[It’s a great ride but I have found the app difficult to navigate]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/anouk-1</id>
+    <published>2022-03-21T11:42:52+01:00</published>
+    <updated>2022-03-21T11:42:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/anouk-1"/>
+    <title>Anouk</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Amsterdam||2||1||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/anouk-1">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Klantenservice alleen via de app. Soms moet je dan lang wachten en niet altijd antwoord nadat een bericht gezien is. Baterij moet eerst helemaal leeg en dan helemaal vol, maar dat werkt bij mij lastig. Mijn fiets geeft leeg aan maar blijkt dat er nog 3% in zit. Nog niet lang in gebruik maar al 2x niet kunnen gebruiken omdat het unlocken niet lukt. Ook vervelend steeds met de telefoon in de weer te zijn.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/jean-francois-2</id>
+    <published>2022-03-21T10:13:01+01:00</published>
+    <updated>2022-03-21T10:13:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/jean-francois-2"/>
+    <title>Jean-François</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Lyon||3||8||Cowboy 4<p><a class="read-more" href="https://cowboy.com/blogs/reviews/jean-francois-2">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Good bike but too small]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/christopher-1</id>
+    <published>2022-03-21T09:54:34+01:00</published>
+    <updated>2022-03-21T09:54:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/christopher-1"/>
+    <title>Christopher</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Dessau||5||10||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/christopher-1">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[It‘s so easy to drive, looks so beautiful and the quality is great!]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/marco-23</id>
+    <published>2022-03-20T19:43:33+01:00</published>
+    <updated>2022-03-20T19:43:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/marco-23"/>
+    <title>Marco</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[||4||8||Cowboy 4<p><a class="read-more" href="https://cowboy.com/blogs/reviews/marco-23">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Easy handling, Nice Design]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/bill-3</id>
+    <published>2022-03-20T18:57:02+01:00</published>
+    <updated>2022-03-20T18:57:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/bill-3"/>
+    <title>Bill</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Ferney-Voltaire||3||5||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/bill-3">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Unfortunately on first ride battery problems meant only approximately 400m of assistance on a 5km trip. Replacement battery is on its way]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/bo-1</id>
+    <published>2022-03-20T15:21:43+01:00</published>
+    <updated>2022-03-20T15:21:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/bo-1"/>
+    <title>Bo</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Bruehl||5||8||Cowboy 3<p><a class="read-more" href="https://cowboy.com/blogs/reviews/bo-1">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[I'm happy but I still have to get used to it]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/carla-1</id>
+    <published>2022-03-20T12:00:46+01:00</published>
+    <updated>2022-03-20T12:00:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/carla-1"/>
+    <title>Carla</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Zoersel||4||8||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/carla-1">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Ik geef geen 5 omdat ik de capaciteit van de batterij net iets te min vind, ik had liever 120 km gehad en overweeg een tweede batterij aan te kopen.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/maikel</id>
+    <published>2022-03-19T20:00:09+01:00</published>
+    <updated>2022-03-19T20:00:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/maikel"/>
+    <title>Maikel</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Rotterdam||4||10||Cowboy 1 <p><a class="read-more" href="https://cowboy.com/blogs/reviews/maikel">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[awesome]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/marianne</id>
+    <published>2022-03-19T18:22:42+01:00</published>
+    <updated>2022-03-19T18:22:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/marianne"/>
+    <title>Marianne</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Zurich||4||8||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/marianne">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[The Design is really great! There is only zwo points i consider as not optimal: with a certain dégrée of steepness i would like to have a boost , means more support!An other point is, it would be helpfull to see on the batterypack the status of charge…. But it is a great and beatiful bike… congratulation!]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/blogs/reviews/matt</id>
+    <published>2022-03-18T14:06:09+01:00</published>
+    <updated>2022-03-18T14:06:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/blogs/reviews/matt"/>
+    <title>matt</title>
+    <author>
+      <name>Loïc Verstaevel</name>
+    </author>
+    <summary type="html">
+      <![CDATA[London||1||0||Cowboy 4 ST<p><a class="read-more" href="https://cowboy.com/blogs/reviews/matt">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Several times my bike has ran out of battery whilst on a ride, despite the fact my bike has 10s of miles left. The battery runs out with no warning, it will literally cut out. I got in touch with support to ask for a new battery and they told me they won’t send one as they said it’s a problem with all the bikes. 
+I waited nearly 4 months after the initial release date for my bike and I feel like I paid 2k to be a beta tester.
+I am told the issue will be fixed this week with a firmware update. If it doesn’t, I’ll be requesting a return.]]>
+    </content>
+  </entry>
+</feed>

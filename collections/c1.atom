@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cowboy.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cowboy.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cowboy.com/collections/c1.atom"/>
+  <title>Cowboy</title>
+  <updated>2022-03-31T11:56:11+02:00</updated>
+  <author>
+    <name>Cowboy</name>
+  </author>
+  <entry>
+    <id>https://cowboy.com/products/1023953535023</id>
+    <published>2022-03-31T11:56:11+02:00</published>
+    <updated>2022-03-31T11:56:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/saddle-c1"/>
+    <title>Saddle</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/images_1.jpeg?v=1543423005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/1023953535023</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">21.00</s:price>
+      <s:sku>2200-A010</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778169524363</id>
+    <published>2022-03-10T17:49:33+01:00</published>
+    <updated>2022-03-10T17:49:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/booklet-holder"/>
+    <title>BOOKLET</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778169524363</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>BOOKLET-HOLDER</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778167656587</id>
+    <published>2022-03-10T17:48:26+01:00</published>
+    <updated>2022-03-10T17:48:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/triangle-set"/>
+    <title>Triangle set</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778167656587</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>A1-ZA20-00</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778149044363</id>
+    <published>2022-03-10T17:39:03+01:00</published>
+    <updated>2022-03-10T17:39:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/cover-bottom-bracket-opening"/>
+    <title>Cover Bottom Bracket Opening</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778149044363</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>1310-A010</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778146422923</id>
+    <published>2022-03-10T17:36:13+01:00</published>
+    <updated>2022-03-10T17:36:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/leaf-for-battery"/>
+    <title>Leaf for battery</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778146422923</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>UEA0001708</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778145276043</id>
+    <published>2022-03-10T17:34:02+01:00</published>
+    <updated>2022-03-10T17:34:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/decal-frame-for-ht"/>
+    <title>Decal frame for HT</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778145276043</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>2340780</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778144424075</id>
+    <published>2022-03-10T17:31:03+01:00</published>
+    <updated>2022-03-10T17:31:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/additionnal-manual"/>
+    <title>Additionnal manual</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778144424075</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>A1-ZL20-00</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778143277195</id>
+    <published>2022-03-10T17:26:48+01:00</published>
+    <updated>2022-03-10T17:26:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/velcro"/>
+    <title>Velcro</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778143277195</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>A1-9681-00</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778141671563</id>
+    <published>2022-03-10T17:22:49+01:00</published>
+    <updated>2022-03-10T17:22:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/locking-tongue"/>
+    <title>Locking tongue</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778141671563</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>UEA0001709</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778125156491</id>
+    <published>2022-03-10T16:52:21+01:00</published>
+    <updated>2022-03-10T16:52:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/screws-for-hanger"/>
+    <title>Screws for hanger</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778125156491</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>5308701</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778124763275</id>
+    <published>2022-03-10T16:50:52+01:00</published>
+    <updated>2022-03-10T16:50:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/screw-for-hanger"/>
+    <title>Screw for hanger</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778124763275</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>5308700</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778124173451</id>
+    <published>2022-03-10T16:49:20+01:00</published>
+    <updated>2022-03-10T16:49:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/drop-out"/>
+    <title>Drop out</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cowboy.com/products/6778124173451</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>ACDA000937</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778123288715</id>
+    <published>2022-03-10T16:45:55+01:00</published>
+    <updated>2022-03-10T16:45:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/tie-wraps"/>
+    <title>Tie wraps</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778123288715</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>A1-9631-00</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778122600587</id>
+    <published>2022-03-10T16:42:58+01:00</published>
+    <updated>2022-03-10T16:42:58+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/m5-washer"/>
+    <title>M5 washer</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778122600587</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>A1-9301-00</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6778122207371</id>
+    <published>2022-03-10T16:40:39+01:00</published>
+    <updated>2022-03-10T16:40:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/controller-holder"/>
+    <title>Controller holder</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6778122207371</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>A1-6420-00</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/1145071173679</id>
+    <published>2022-02-04T15:29:47+01:00</published>
+    <updated>2022-02-04T15:29:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/wheel-spokes"/>
+    <title>Wheel Spokes</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/rBVaEFcgFvCAUA9XAAY06iFuv0A507.jpg?v=1553617506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/1145071173679</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.20</s:price>
+      <s:sku>5300-A010</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/1051182301231</id>
+    <published>2021-12-16T10:16:29+01:00</published>
+    <updated>2021-12-16T10:16:29+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/motor"/>
+    <title>Motor</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/images_dd7ab83c-f70b-4ec1-820c-c0546655d083.jpeg?v=1547587699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/1051182301231</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">199.00</s:price>
+      <s:sku>8200-A010</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6656757039243</id>
+    <published>2021-11-08T14:00:54+01:00</published>
+    <updated>2021-11-08T14:00:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/brake-pad-retainer-screw"/>
+    <title>Brake Pad Retainer Screw</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:tag>us-sync</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6656757039243</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">3.00</s:price>
+      <s:sku>A2-5143-00</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6653548691595</id>
+    <published>2021-11-04T12:28:18+01:00</published>
+    <updated>2021-11-04T12:28:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/battery-key-set-1"/>
+    <title>Battery + key set</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:tag>us-sync</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6653548691595</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">499.00</s:price>
+      <s:sku>A4-6100-01</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6650336411787</id>
+    <published>2021-11-01T21:56:05+01:00</published>
+    <updated>2021-11-01T21:56:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/charger-o-ring"/>
+    <title>Charger O-Ring</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:tag>us-sync</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6650336411787</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>A4-6540-00</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6641100554379</id>
+    <published>2021-10-21T13:43:17+02:00</published>
+    <updated>2021-10-21T13:43:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/screw-brake-disc-1"/>
+    <title>Screw Brake Disc</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6641100554379</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>7100-A010-SCREW-DISC</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6640140517515</id>
+    <published>2021-10-20T12:51:54+02:00</published>
+    <updated>2021-10-20T12:51:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/front-caliper-1"/>
+    <title>Front Caliper</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6640140517515</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>7200-A010-CALIPER</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6640140124299</id>
+    <published>2021-10-20T12:49:58+02:00</published>
+    <updated>2021-10-20T12:49:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/front-lever"/>
+    <title>Front Lever</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6640140124299</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>7200-A010-LEVER</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6640138059915</id>
+    <published>2021-10-20T12:47:12+02:00</published>
+    <updated>2021-10-20T12:47:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/rear-lever-1"/>
+    <title>Rear Lever</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6640138059915</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>7200-A020-LEVER</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6640137699467</id>
+    <published>2021-10-20T12:46:00+02:00</published>
+    <updated>2021-10-20T12:46:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/rear-caliper-1"/>
+    <title>Rear Caliper</title>
+    <s:type>Spare Part</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Spare Part<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-SPARE-PART</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6640137699467</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.00</s:price>
+      <s:sku>7200-A020-REAR-CALIPER</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

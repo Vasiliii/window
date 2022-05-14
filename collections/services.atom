@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cowboy.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cowboy.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cowboy.com/collections/services.atom"/>
+  <title>Cowboy</title>
+  <updated>2021-11-04T15:53:52+01:00</updated>
+  <author>
+    <name>Cowboy</name>
+  </author>
+  <entry>
+    <id>https://cowboy.com/products/6554613973131</id>
+    <published>2021-11-04T15:53:52+01:00</published>
+    <updated>2021-11-04T15:53:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/cowboy-care"/>
+    <title>Cowboy Care</title>
+    <s:type>Services</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/CARE.png?v=1636116284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Services<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>time</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6554613973131</id>
+      <title>Monthly</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>SERV-CARE-MONTH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6560406175883</id>
+    <published>2021-05-06T05:40:50+02:00</published>
+    <updated>2021-05-06T05:40:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/premium-software-services"/>
+    <title>Premium Software Services</title>
+    <s:type>Services</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/140511942-010a4b05-94df-4f35-bb2e-805520b83030_ea254012-88d5-47f4-ae4a-f1476f2ad55f.png?v=1637056027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Services<br>
+        <strong>Price: </strong>
+            2.00 - 24.00
+            <a href="https://cowboy.com/products/premium-software-services">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>insurance</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6560406175883</id>
+      <title>Monthly</title>
+      <s:price currency="EUR">2.00</s:price>
+      <s:sku>ER-THEFT-PSS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6560406175883</id>
+      <title>Yearly</title>
+      <s:price currency="EUR">24.00</s:price>
+      <s:sku>ER-THEFT-PSS-YEAR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6554613940363</id>
+    <published>2021-05-06T05:40:08+02:00</published>
+    <updated>2021-05-06T05:40:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/theft-insurance"/>
+    <title>Theft Insurance</title>
+    <s:type>Services</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/140511942-010a4b05-94df-4f35-bb2e-805520b83030.png?v=1637055713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Services<br>
+        <strong>Price: </strong>
+            8.00 - 96.00
+            <a href="https://cowboy.com/products/theft-insurance">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>insurance</s:tag>
+    <s:tag>no-tax</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6554613940363</id>
+      <title>Monthly</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>ER-THEFT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554613940363</id>
+      <title>Yearly</title>
+      <s:price currency="EUR">96.00</s:price>
+      <s:sku>ER-THEFT-YEAR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

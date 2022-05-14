@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cowboy.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cowboy.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cowboy.com/collections/circular.atom"/>
+  <title>Cowboy</title>
+  <updated>2020-11-06T12:14:38+01:00</updated>
+  <author>
+    <name>Cowboy</name>
+  </author>
+  <entry>
+    <id>https://cowboy.com/products/5049371623563</id>
+    <published>2020-11-06T12:14:38+01:00</published>
+    <updated>2020-11-06T12:14:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/cowboy-3-circular"/>
+    <title>Cowboy 3 Circular</title>
+    <s:type>Bike</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/cowboy-3-absolute-black_w_6_e83a0d0c-1481-4c40-9c73-b9eca2be0dd8.png?v=1604562348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Bike<br>
+        <strong>Price: </strong>
+            600.00 - 1890.00
+            <a href="https://cowboy.com/products/cowboy-3-circular">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>circular</s:tag>
+    <s:tag>FAMILLE-BIKE</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Absolute Black / Circular / EUR</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590BK1-11-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Absolute Black / Internal / EUR</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>CBA2590BK1-11-CIRC-2</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Absolute Black / Circular / GBP</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590BK1-12-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Anthracite Grey / Circular / EUR</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590GR1-11-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Anthracite Grey / Internal / EUR</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>CBA2590GR1-11-CIRC-2</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Anthracite Grey / Circular / GBP</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590GR1-12-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Mineral Grey / Circular / EUR</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590GR2-11-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Mineral Grey / Internal / EUR</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>CBA2590GR2-11-CIRC-2</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Mineral Grey / Circular / GBP</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590GR2-12-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

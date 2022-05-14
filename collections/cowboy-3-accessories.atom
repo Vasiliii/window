@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cowboy.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cowboy.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cowboy.com/collections/cowboy-3-accessories.atom"/>
+  <title>Cowboy</title>
+  <updated>2022-02-04T10:36:27+01:00</updated>
+  <author>
+    <name>Cowboy</name>
+  </author>
+  <entry>
+    <id>https://cowboy.com/products/6725772247179</id>
+    <published>2022-02-04T10:36:27+01:00</published>
+    <updated>2022-02-04T10:36:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/poc-helmet"/>
+    <title>POC Helmet</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>POC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/Helmet.png?v=1648717117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POC<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>c1</s:tag>
+    <s:tag>c2</s:tag>
+    <s:tag>c3</s:tag>
+    <s:tag>c4</s:tag>
+    <s:tag>FAMILLE-ACCESSORY</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>in-accessories-shop</s:tag>
+    <s:tag>type-popular</s:tag>
+    <s:tag>type-safety</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6725772247179</id>
+      <title>Small (50-56 cm)</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>PC107701037SML1</s:sku>
+      <s:grams>310</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6725772247179</id>
+      <title>Medium (54-59 cm)</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>PC107701037MED1</s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6725772247179</id>
+      <title>Large (56-61 cm)</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>PC107701037LRG1</s:sku>
+      <s:grams>370</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6714301284491</id>
+    <published>2022-02-04T10:36:26+01:00</published>
+    <updated>2022-02-04T10:36:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/cleaning-kit"/>
+    <title>Muc-Off Bike Cleaning Kit</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Agu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/6U0A2746_transparent_1_1_d91d42df-8207-46fa-86a5-49cf18aa3a04.png?v=1648717211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Agu<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>c1</s:tag>
+    <s:tag>c2</s:tag>
+    <s:tag>c3</s:tag>
+    <s:tag>c4</s:tag>
+    <s:tag>FAMILLE-ACCESSORY</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>in-accessories-shop</s:tag>
+    <s:tag>type-maintenance</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6714301284491</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>MUC-CLEANING-KIT</s:sku>
+      <s:grams>1890</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6714275528843</id>
+    <published>2022-02-04T10:36:25+01:00</published>
+    <updated>2022-02-04T10:36:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/child-seat"/>
+    <title>Child seat</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Hamax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/hamax-child-seat_58ba3973-fde8-47be-940b-38dfbf625017.png?v=1648717066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamax<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>c1</s:tag>
+    <s:tag>c2</s:tag>
+    <s:tag>c3</s:tag>
+    <s:tag>c4</s:tag>
+    <s:tag>FAMILLE-ACCESSORY</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>in-accessories-shop</s:tag>
+    <s:tag>type-travel</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6714275528843</id>
+      <title>Child seat</title>
+      <s:price currency="EUR">179.00</s:price>
+      <s:sku>HA501.GWB</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6714279493771</id>
+    <published>2022-02-04T10:36:24+01:00</published>
+    <updated>2022-02-04T10:36:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/brooks-pannier"/>
+    <title>Brooks pannier</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Brooks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/brooks-pannier-1_5a30962d-0126-4a07-8a7b-d872753712d8.png?v=1648717060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brooks<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>c1</s:tag>
+    <s:tag>c2</s:tag>
+    <s:tag>c3</s:tag>
+    <s:tag>c4</s:tag>
+    <s:tag>FAMILLE-ACCESSORY</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>in-accessories-shop</s:tag>
+    <s:tag>type-popular</s:tag>
+    <s:tag>type-travel</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6714279493771</id>
+      <title>Brooks pannier</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BR514.BLK</s:sku>
+      <s:grams>1450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6714243580043</id>
+    <published>2022-02-04T10:36:22+01:00</published>
+    <updated>2022-02-04T10:36:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/pump"/>
+    <title>Pump</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>SKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/sks-rennkompressor-pump_afb4cae3-fd65-4059-b6f7-b6686fb03462.png?v=1648717119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SKS<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>c1</s:tag>
+    <s:tag>c2</s:tag>
+    <s:tag>c3</s:tag>
+    <s:tag>c4</s:tag>
+    <s:tag>FAMILLE-ACCESSORY</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>in-accessories-shop</s:tag>
+    <s:tag>type-maintenance</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6714243580043</id>
+      <title>Pump</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>10063</s:sku>
+      <s:grams>2900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6554437386379</id>
+    <published>2021-05-04T14:40:11+02:00</published>
+    <updated>2021-05-04T14:40:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/lock"/>
+    <title>Lock</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Kryptonite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/kryptonite-u-lock_71dac49e-35e4-4f54-944d-92905c966c35.png?v=1648717084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kryptonite<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bike-accessory</s:tag>
+    <s:tag>c1</s:tag>
+    <s:tag>c2</s:tag>
+    <s:tag>c3</s:tag>
+    <s:tag>c4</s:tag>
+    <s:tag>FAMILLE-ACCESSORY</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>in-accessories-shop</s:tag>
+    <s:tag>type-popular</s:tag>
+    <s:tag>type-safety</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6554437386379</id>
+      <title>KR U Evolution STD</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>KRY002130</s:sku>
+      <s:grams>1590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6554437582987</id>
+    <published>2021-05-04T14:39:51+02:00</published>
+    <updated>2021-05-04T14:39:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/phone-mount"/>
+    <title>Phone mount</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Quadlock</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/bmp_2bf71b38-4395-467b-a061-b955efeec35e.png?v=1648717104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Quadlock<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bike-accessory</s:tag>
+    <s:tag>c1</s:tag>
+    <s:tag>c2</s:tag>
+    <s:tag>c3</s:tag>
+    <s:tag>FAMILLE-ACCESSORY</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>in-accessories-shop</s:tag>
+    <s:tag>type-popular</s:tag>
+    <s:tag>type-travel</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6554437582987</id>
+      <title>Stem/Handlebar</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLM-BMP-BL</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6554447970443</id>
+    <published>2021-05-04T14:39:21+02:00</published>
+    <updated>2021-05-04T14:39:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/phone-case"/>
+    <title>Phone case</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Quadlock</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/Quad_Lock_iP12ProMax_CASE_RGB_cd01022d-77f7-4ce7-a436-4e1ebfb9bf0d.png?v=1648717100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Quadlock<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            14.00 - 29.00
+            <a href="https://cowboy.com/products/phone-case">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bike-accessory</s:tag>
+    <s:tag>c1</s:tag>
+    <s:tag>c2</s:tag>
+    <s:tag>c3</s:tag>
+    <s:tag>c4</s:tag>
+    <s:tag>FAMILLE-ACCESSORY</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>in-accessories-shop</s:tag>
+    <s:tag>type-popular</s:tag>
+    <s:tag>with-media-switch</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 13</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP13M</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 13 Pro</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP13MP</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 13 Pro Max</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP13L</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 13 Mini</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP13S</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 12 / 12 Pro</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP12M</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 12 Pro Max</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP12PRM</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 12 mini</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP12S</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 11</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP11R</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 11 Pro</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP11PRO</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone 11 Pro Max</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP11MAX</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone X / XS</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IPX</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone XR</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IPZ</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>iPhone SE (2nd and 3rd Gen) / 8 / 7</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku>QLC-IP7-B</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6554447970443</id>
+      <title>Universal Adaptor</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku>QLA-UNI-2</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+</feed>

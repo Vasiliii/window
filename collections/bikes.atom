@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cowboy.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cowboy.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cowboy.com/collections/bikes.atom"/>
+  <title>Cowboy</title>
+  <updated>2021-10-18T16:43:56+02:00</updated>
+  <author>
+    <name>Cowboy</name>
+  </author>
+  <entry>
+    <id>https://cowboy.com/products/6536666808459</id>
+    <published>2021-10-18T16:43:56+02:00</published>
+    <updated>2021-10-18T16:43:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/test-rider-bike"/>
+    <title>Test Rider Bike</title>
+    <s:type>Bike</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/0319_sh01_Cowboy-1_5f3225b3-cd64-4db1-ba05-5f5b8367e2d8.png?v=1616677632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Bike<br>
+        <strong>Price: </strong>
+            990.00 - 2790.00
+            <a href="https://cowboy.com/products/test-rider-bike">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>internal</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6536666808459</id>
+      <title>Cowboy 2</title>
+      <s:price currency="EUR">990.00</s:price>
+      <s:sku>CB2-TR</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6536666808459</id>
+      <title>Cowboy 3</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CB3-TR</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6536666808459</id>
+      <title>Cowboy 4</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CB4-TR</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6536666808459</id>
+      <title>Cowboy 4 ST</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CB4ST-TR</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/6556234088587</id>
+    <published>2021-05-06T05:26:05+02:00</published>
+    <updated>2021-05-06T05:26:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/e-bike-cowboy-4"/>
+    <title>Cowboy 4</title>
+    <s:type>Bike</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/cowboy-4-black.png?v=1620811695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Bike<br>
+        <strong>Price: </strong>
+            2790.00 - 2889.00
+            <a href="https://cowboy.com/products/e-bike-cowboy-4">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cowboy-4-bike</s:tag>
+    <s:tag>FAMILLE-BIKE</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 / Black / EUR</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBA4592BK1-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 / Black / GBP</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBA4592BK1-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 / Sand / EUR</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBA4592GR3-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 / Sand / GBP</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBA4592GR3-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 / Sage / EUR</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBA4592GN1-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 / Khaki / EUR</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBA4592GN2-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 / Sage / GBP</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBA4592GN1-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 / Khaki / GBP</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBA4592GN2-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST / Black / EUR</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBB4526BK1-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST / Black / GBP</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBB4526BK1-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST / Sand / EUR</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBB4526GR3-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST / Sand / GBP</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBB4526GR3-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST / Sage / EUR</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBB4526GN1-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST / Khaki / EUR</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBB4526GN2-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST / Sage / GBP</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBB4526GN1-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST / Khaki / GBP</title>
+      <s:price currency="EUR">2790.00</s:price>
+      <s:sku>CBB4526GN2-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4+ / Black / EUR</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBA4592BK1-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4+ / Black / GBP</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBA4592BK1-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4+ / Sand / EUR</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBA4592GR3-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4+ / Sand / GBP</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBA4592GR3-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4+ / Sage / EUR</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBA4592GN1-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4+ / Khaki / EUR</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBA4592GN2-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4+ / Sage / GBP</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBA4592GN1-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4+ / Khaki / GBP</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBA4592GN2-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST+ / Black / EUR</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBB4526BK1-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST+ / Black / GBP</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBB4526BK1-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST+ / Sand / EUR</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBB4526GR3-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST+ / Sand / GBP</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBB4526GR3-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST+ / Sage / EUR</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBB4526GN1-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST+ / Khaki / EUR</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBB4526GN2-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST+ / Sage / GBP</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBB4526GN1-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/6556234088587</id>
+      <title>Cowboy 4 ST+ / Khaki / GBP</title>
+      <s:price currency="EUR">2889.00</s:price>
+      <s:sku>CBB4526GN2-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/5049371623563</id>
+    <published>2020-11-06T12:14:38+01:00</published>
+    <updated>2020-11-06T12:14:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/cowboy-3-circular"/>
+    <title>Cowboy 3 Circular</title>
+    <s:type>Bike</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/cowboy-3-absolute-black_w_6_e83a0d0c-1481-4c40-9c73-b9eca2be0dd8.png?v=1604562348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Bike<br>
+        <strong>Price: </strong>
+            600.00 - 1890.00
+            <a href="https://cowboy.com/products/cowboy-3-circular">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>circular</s:tag>
+    <s:tag>FAMILLE-BIKE</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Absolute Black / Circular / EUR</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590BK1-11-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Absolute Black / Internal / EUR</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>CBA2590BK1-11-CIRC-2</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Absolute Black / Circular / GBP</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590BK1-12-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Anthracite Grey / Circular / EUR</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590GR1-11-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Anthracite Grey / Internal / EUR</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>CBA2590GR1-11-CIRC-2</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Anthracite Grey / Circular / GBP</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590GR1-12-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Mineral Grey / Circular / EUR</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590GR2-11-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Mineral Grey / Internal / EUR</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>CBA2590GR2-11-CIRC-2</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/5049371623563</id>
+      <title>Mineral Grey / Circular / GBP</title>
+      <s:price currency="EUR">1890.00</s:price>
+      <s:sku>CBA2590GR2-12-CIRC</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cowboy.com/products/4911947415691</id>
+    <published>2020-06-04T06:17:28+02:00</published>
+    <updated>2020-06-04T06:17:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://cowboy.com/products/e-bike-cowboy-3"/>
+    <title>Cowboy 3</title>
+    <s:type>Bike</s:type>
+    <s:vendor>Cowboy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1772/1703/products/cowboy-3-absolute-black_w_6.png?v=1591454295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cowboy<br>
+        <strong>Type: </strong>Bike<br>
+        <strong>Price: </strong>
+            2290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAMILLE-BIKE</s:tag>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Black / none / EUR</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590BK1-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Black / none / GBP</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590BK1-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Black / Pre-installed mudguards / EUR</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590BK1-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Black / Pre-installed mudguards / GBP</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590BK1-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Anthracite / none / EUR</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590GR1-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Anthracite / none / GBP</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590GR1-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Anthracite / Pre-installed mudguards / EUR</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590GR1-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Anthracite / Pre-installed mudguards / GBP</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590GR1-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Mineral / none / EUR</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590GR2-21</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Mineral / none / GBP</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590GR2-22</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Mineral / Pre-installed mudguards / EUR</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590GR2-11</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cowboy.com/products/4911947415691</id>
+      <title>Mineral / Pre-installed mudguards / GBP</title>
+      <s:price currency="EUR">2290.00</s:price>
+      <s:sku>CBA2590GR2-12</s:sku>
+      <s:grams>23000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

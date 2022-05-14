@@ -1,0 +1,576 @@
+Uri: https://cowboy.com/
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\index.htm
+Content Type: text/html
+
+Uri: https://cowboy.com/products/e-bike-cowboy-4
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\e-bike-cowboy-4.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/e-bike-cowboy-4?variant=39314404606091
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\e-bike-cowboy-4-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/e-bike-cowboy-3
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\e-bike-cowboy-3.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/accessories
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\accessories.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/e-bike-app
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\e-bike-app.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/services
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\services.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/circular
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\circular.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/test-ride
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\test-ride.html
+Content Type: text/html
+
+Uri: https://cowboy.com/cart
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\cart.html
+Content Type: text/html
+
+Uri: https://cowboy.com/cart?model=cowboy-4
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\cart-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/cart?model=cowboy-4-st
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\cart-2.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/cowboy-care
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\cowboy-care.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/theft-insurance
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\theft-insurance.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/business
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\business.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/warranty
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\warranty.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/reviews
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\reviews.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/stores
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\stores.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/careers
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\careers.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/contact-us
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\contact-us.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/delivery
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\delivery.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/returns
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\returns.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/privacy-policy
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\privacy-policy.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/terms-of-use
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\terms-of-use.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/e-bike-cowboy-4.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\e-bike-cowboy-4.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/pages/test-ride?model=cowboy-4
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\test-ride-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/compare-cowboy-bikes?model=cowboy-4
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\compare-cowboy-bikes.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/test-ride?model=cowboy-4-st
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\test-ride-2.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/compare-cowboy-bikes?model=cowboy-4-st
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\compare-cowboy-bikes-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/e-bike-cowboy-3.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\e-bike-cowboy-3.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/pages/test-ride?model=cowboy-3
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\test-ride-3.html
+Content Type: text/html
+
+Uri: https://cowboy.com/cart?model=cowboy-3
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\cart-3.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/compare-cowboy-bikes?model=cowboy-3
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\compare-cowboy-bikes-2.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/accessories.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\accessories.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/collections/accessories?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\accessories-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/accessories.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\accessories.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/phone-case
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\phone-case.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/phone-case?variant=39309626179723
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\phone-case-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/lock
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\lock.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/brake-pads
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\brake-pads.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/charger?variant=40276952842379
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\charger.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/phone-mount
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\phone-mount.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/kickstand
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\kickstand.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/brooks-pannier
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\brooks-pannier.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/rear-rack
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\rear-rack.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/inner-tube?variant=40079078162571
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\inner-tube.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/inner-tube?variant=40079079506059
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\inner-tube-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/tire?variant=40016532275339
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\tire.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/tire?variant=40016532308107
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\tire-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/poc-helmet
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\poc-helmet.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/pump
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\pump.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/cleaning-kit
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\cleaning-kit.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/trailer-adaptor
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\trailer-adaptor.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/child-seat
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\child-seat.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/grips?variant=40006821183627
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\grips.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/grips?variant=40006821216395
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\grips-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/grips?variant=40006821249163
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\grips-2.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/saddle?variant=40016377249931
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\saddle.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/saddle?variant=40016407134347
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\saddle-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/e-bike-cowboy-4?variant=39314404409483
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\e-bike-cowboy-4-2.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/services.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\services.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/collections/services?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\services-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/services.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\services.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/circular.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\circular.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/collections/circular?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\circular-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/circular.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\circular.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/pages/reviews
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\reviews.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/cowboy-care.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\cowboy-care.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\index.htm
+Content Type: text/html
+
+Uri: https://cowboy.com/products/theft-insurance.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\theft-insurance.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/blogs/reviews.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\reviews.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/blogs/reviews?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\reviews-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/blogs/stories?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/joshua-page
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\joshua-page.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/charles-johnson
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\charles-johnson.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/marc-schmitz
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\marc-schmitz.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/john-prigogine
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\john-prigogine.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/loic-ganza
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\loic-ganza.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/benoit-do-quang
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\benoit-do-quang.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/marco-breier
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\marco-breier.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/nicolas-debray
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\nicolas-debray.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/fabian-jean-villanueva
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\fabian-jean-villanueva.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/olivia-borlee
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\olivia-borlee.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/julie-saverys
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\julie-saverys.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/alexis-houssou
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\alexis-houssou.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/tom-boon
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\tom-boon.html
+Content Type: text/html
+
+Uri: https://cowboy.com/blogs/stories/julie-mazy
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\blogs\stories\julie-mazy.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/test-ride?q=test-ride-canal
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\test-ride-4.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/test-ride?q=test-ride-berlin-brand-store
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\test-ride-5.html
+Content Type: text/html
+
+Uri: https://cowboy.com/pages/compare-cowboy-bikes
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\pages\compare-cowboy-bikes-3.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/accessories.oembed?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\accessories-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/phone-case.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\phone-case.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/lock.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\lock.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/brake-pads.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\brake-pads.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/charger
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\charger-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/charger.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\charger.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/phone-mount.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\phone-mount.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/kickstand.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\kickstand.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/brooks-pannier.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\brooks-pannier.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/rear-rack.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\rear-rack.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/inner-tube
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\inner-tube-2.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/inner-tube.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\inner-tube.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/tire
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\tire-2.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/tire.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\tire.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/poc-helmet.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\poc-helmet.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/pump.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\pump.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/cleaning-kit.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\cleaning-kit.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/trailer-adaptor.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\trailer-adaptor.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/child-seat.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\child-seat.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/grips
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\grips-3.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/grips.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\grips.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/products/saddle
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\saddle-2.html
+Content Type: text/html
+
+Uri: https://cowboy.com/products/saddle.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\products\saddle.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/services.oembed?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\services-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/17721703/checkouts/c43da05c2df415baf8cba4903fb97e73
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\17721703\checkouts\c43da05c2df415baf8cba4903fb97e73.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/circular.oembed?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\circular-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/cowboy-3-accessories
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-3-accessories.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/cowboy-4-accessories
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-4-accessories.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/bikes
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\bikes.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/c1
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\c1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/online-sales-bikes
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\online-sales-bikes.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/cowboy-3-accessories.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-3-accessories.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/collections/cowboy-3-accessories?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-3-accessories-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/cowboy-3-accessories.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-3-accessories.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/cowboy-4-accessories.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-4-accessories.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/collections/cowboy-4-accessories?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-4-accessories-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/cowboy-4-accessories.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-4-accessories.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/bikes.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\bikes.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/collections/bikes?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\bikes-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/bikes.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\bikes.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/c1.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\c1.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/collections/c1?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\c1-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/c1.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\c1.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/online-sales-bikes.atom
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\online-sales-bikes.atom
+Content Type: application/atom+xml
+
+Uri: https://cowboy.com/collections/online-sales-bikes?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\online-sales-bikes-1.html
+Content Type: text/html
+
+Uri: https://cowboy.com/collections/online-sales-bikes.oembed
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\online-sales-bikes.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/cowboy-3-accessories.oembed?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-3-accessories-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/cowboy-4-accessories.oembed?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\cowboy-4-accessories-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/bikes.oembed?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\bikes-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/c1.oembed?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\c1-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://cowboy.com/collections/online-sales-bikes.oembed?page=2
+File Name: C:\Users\minak\Desktop\вр\cowboy.com\collections\online-sales-bikes-1.oembed
+Content Type: application/json+oembed
+

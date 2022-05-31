@@ -2662,7 +2662,7 @@ h1:not(.visible) .slide-up {
 @media (max-width:767px) {
   .section--hero-media .video-wrapper {
     display: none;
-    height: 600px;
+    height: 500px;
 
   }
 }
@@ -2959,7 +2959,7 @@ html[data-template=index] {
 @media (max-width:767px) {
   .section--intro video {
     width: 1060px;
-    height: 600px;
+    height: 500px;
     transform: translate(-20.5%)
   }
 }
